@@ -27,4 +27,6 @@ export PATH=$PATH:$HOME/bin
 !pip3 install sklearn
 !pip3 install pydot
 !pip3 install graphviz
+!pip3 install imblearn
+!pip3 install xgboost
 ```
